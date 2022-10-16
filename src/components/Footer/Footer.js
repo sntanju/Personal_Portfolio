@@ -7,7 +7,7 @@ import {  Container,  LinkColumn, LinkItem, LinkTitle, SocialContainer, SocialIc
 
 const Footer = () => {
   return (
-    <Section>
+    <Section id="contact">
     <SectionDivider divider/>
     <SectionTitle>Contact Me</SectionTitle>
       <AnimationOnScroll duration={2}  animateIn="animate__fadeInUpBig" >
